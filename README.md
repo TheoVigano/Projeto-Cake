@@ -19,7 +19,7 @@ com JavaScript
 
 # Autor
 
-Wellington Mazoni de Andrade
+Theo Viganó
 
-https://www.linkedin.com/in/wmazoni
+https://github.com/TheoVigano
 
