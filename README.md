@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+https://theovigano.github.io/Projeto-Cake/
 
 Projeto Cake é um projeto para recapitular e para introduzir programação web.
 
