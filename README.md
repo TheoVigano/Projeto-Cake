@@ -17,11 +17,6 @@ com JavaScript
 ## Implantação em produção
 - Front end web: CloudFlare
 
-
-# Como executar o projeto
-
-```
-
 # Autor
 
 Wellington Mazoni de Andrade
